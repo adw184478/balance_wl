@@ -1,0 +1,15 @@
+Debug/
+.ads/
+.settings/
+.vscode/
+*.o
+*.d
+*.src
+*.elf
+*.hex
+*.map
+*.mdf
+*.opt
+*.launch
+*.bat
+*.txt
